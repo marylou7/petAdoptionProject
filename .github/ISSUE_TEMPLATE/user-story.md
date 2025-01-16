@@ -13,6 +13,12 @@ assignees: ''
 - [ ] Criterion 1  
 - [ ] Criterion 2  
 **Definition of Done (DoD):**  
-- [ ] Code is reviewed  
+- [ ] Code is reviewed by at least one team member
 - [ ] Feature is tested  
 - [ ] Feature is deployed
+- [ ] All tests pass
+- [ ] Documentation updated
+- [ ] Code deployed to a staging environment
+
+
+
